@@ -26,7 +26,7 @@ There is no installation required for this project. Please use the link in the u
 ## Usage
 
 
-https://sharareh18.github.io/How-do-you-java/
+https://sharareh18.github.io/Schedly/
 
 ![workday planner showing work hours and tasks and date on top](./assets/images/Schedly-1.png)
 
